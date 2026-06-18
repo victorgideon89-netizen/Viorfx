@@ -1,0 +1,6 @@
+{
+  "name": "ViorFX",
+  "description": "Smart AI Forex Analysis and Trading Signals",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
